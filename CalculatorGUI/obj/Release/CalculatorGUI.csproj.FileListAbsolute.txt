@@ -1,0 +1,10 @@
+C:\Users\bncnz\Desktop\MCL 2\IT105L.B12.1T.21.22\Midterms\CalculatorGUI\bin\Release\CalculatorGUI.exe.config
+C:\Users\bncnz\Desktop\MCL 2\IT105L.B12.1T.21.22\Midterms\CalculatorGUI\bin\Release\CalculatorGUI.exe
+C:\Users\bncnz\Desktop\MCL 2\IT105L.B12.1T.21.22\Midterms\CalculatorGUI\bin\Release\CalculatorGUI.pdb
+C:\Users\bncnz\Desktop\MCL 2\IT105L.B12.1T.21.22\Midterms\CalculatorGUI\obj\Release\CalculatorGUI.csproj.AssemblyReference.cache
+C:\Users\bncnz\Desktop\MCL 2\IT105L.B12.1T.21.22\Midterms\CalculatorGUI\obj\Release\CalculatorGUI.Form1.resources
+C:\Users\bncnz\Desktop\MCL 2\IT105L.B12.1T.21.22\Midterms\CalculatorGUI\obj\Release\CalculatorGUI.Properties.Resources.resources
+C:\Users\bncnz\Desktop\MCL 2\IT105L.B12.1T.21.22\Midterms\CalculatorGUI\obj\Release\CalculatorGUI.csproj.GenerateResource.cache
+C:\Users\bncnz\Desktop\MCL 2\IT105L.B12.1T.21.22\Midterms\CalculatorGUI\obj\Release\CalculatorGUI.csproj.CoreCompileInputs.cache
+C:\Users\bncnz\Desktop\MCL 2\IT105L.B12.1T.21.22\Midterms\CalculatorGUI\obj\Release\CalculatorGUI.exe
+C:\Users\bncnz\Desktop\MCL 2\IT105L.B12.1T.21.22\Midterms\CalculatorGUI\obj\Release\CalculatorGUI.pdb

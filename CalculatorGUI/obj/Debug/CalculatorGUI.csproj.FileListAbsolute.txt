@@ -1,0 +1,21 @@
+C:\Users\bncnz\Desktop\MCL 2\IT105L.B12.1T.21.22\Midterms\CalculatorGUI\bin\Debug\CalculatorGUI.exe.config
+C:\Users\bncnz\Desktop\MCL 2\IT105L.B12.1T.21.22\Midterms\CalculatorGUI\bin\Debug\CalculatorGUI.exe
+C:\Users\bncnz\Desktop\MCL 2\IT105L.B12.1T.21.22\Midterms\CalculatorGUI\bin\Debug\CalculatorGUI.pdb
+C:\Users\bncnz\Desktop\MCL 2\IT105L.B12.1T.21.22\Midterms\CalculatorGUI\obj\Debug\CalculatorGUI.csproj.AssemblyReference.cache
+C:\Users\bncnz\Desktop\MCL 2\IT105L.B12.1T.21.22\Midterms\CalculatorGUI\obj\Debug\CalculatorGUI.Form1.resources
+C:\Users\bncnz\Desktop\MCL 2\IT105L.B12.1T.21.22\Midterms\CalculatorGUI\obj\Debug\CalculatorGUI.Properties.Resources.resources
+C:\Users\bncnz\Desktop\MCL 2\IT105L.B12.1T.21.22\Midterms\CalculatorGUI\obj\Debug\CalculatorGUI.csproj.GenerateResource.cache
+C:\Users\bncnz\Desktop\MCL 2\IT105L.B12.1T.21.22\Midterms\CalculatorGUI\obj\Debug\CalculatorGUI.csproj.CoreCompileInputs.cache
+C:\Users\bncnz\Desktop\MCL 2\IT105L.B12.1T.21.22\Midterms\CalculatorGUI\obj\Debug\CalculatorGUI.exe
+C:\Users\bncnz\Desktop\MCL 2\IT105L.B12.1T.21.22\Midterms\CalculatorGUI\obj\Debug\CalculatorGUI.pdb
+E:\MCL\MCL 2\MCL 2 - 1T\IT105L.B12.1T.21.22\Midterms\CalculatorGUI\bin\Debug\CalculatorGUI.exe.config
+E:\MCL\MCL 2\MCL 2 - 1T\IT105L.B12.1T.21.22\Midterms\CalculatorGUI\bin\Debug\CalculatorGUI.exe
+E:\MCL\MCL 2\MCL 2 - 1T\IT105L.B12.1T.21.22\Midterms\CalculatorGUI\bin\Debug\CalculatorGUI.pdb
+E:\MCL\MCL 2\MCL 2 - 1T\IT105L.B12.1T.21.22\Midterms\CalculatorGUI\obj\Debug\CalculatorGUI.csproj.AssemblyReference.cache
+E:\MCL\MCL 2\MCL 2 - 1T\IT105L.B12.1T.21.22\Midterms\CalculatorGUI\obj\Debug\CalculatorGUI.csproj.SuggestedBindingRedirects.cache
+E:\MCL\MCL 2\MCL 2 - 1T\IT105L.B12.1T.21.22\Midterms\CalculatorGUI\obj\Debug\CalculatorGUI.Form1.resources
+E:\MCL\MCL 2\MCL 2 - 1T\IT105L.B12.1T.21.22\Midterms\CalculatorGUI\obj\Debug\CalculatorGUI.Properties.Resources.resources
+E:\MCL\MCL 2\MCL 2 - 1T\IT105L.B12.1T.21.22\Midterms\CalculatorGUI\obj\Debug\CalculatorGUI.csproj.GenerateResource.cache
+E:\MCL\MCL 2\MCL 2 - 1T\IT105L.B12.1T.21.22\Midterms\CalculatorGUI\obj\Debug\CalculatorGUI.csproj.CoreCompileInputs.cache
+E:\MCL\MCL 2\MCL 2 - 1T\IT105L.B12.1T.21.22\Midterms\CalculatorGUI\obj\Debug\CalculatorGUI.exe
+E:\MCL\MCL 2\MCL 2 - 1T\IT105L.B12.1T.21.22\Midterms\CalculatorGUI\obj\Debug\CalculatorGUI.pdb

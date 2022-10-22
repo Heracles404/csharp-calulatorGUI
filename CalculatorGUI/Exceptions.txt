@@ -1,0 +1,55 @@
+try
+            {
+                Clipboard.SetText(txtDisp.Text);
+            }catch(System.ArgumentNullException)
+            {
+                Clipboard.SetText(" ");
+            }
+
+
+
+
+try
+            {
+                switch (previousOperation)
+                {
+                    case Operation.Add:
+                        lstNums = txtDisp.Text.Split('+').Select(double.Parse).ToList();
+                        txtDisp.Text = (lstNums[0] + lstNums[1]).ToString();
+                        break;
+                    case Operation.Sub:
+                        lstNums = txtDisp.Text.Split('-').Select(double.Parse).ToList();
+                        txtDisp.Text = (lstNums[0] - lstNums[1]).ToString();
+                        break;
+                    case Operation.Mul:
+                        lstNums = txtDisp.Text.Split('*').Select(double.Parse).ToList();
+                        txtDisp.Text = (lstNums[0] * lstNums[1]).ToString();
+                        break;
+                    case Operation.Div:
+                        try
+                        {
+                            lstNums = txtDisp.Text.Split('/').Select(double.Parse).ToList();
+                            txtDisp.Text = (lstNums[0] / lstNums[1]).ToString();
+                        }
+                        catch (DivideByZeroException)
+                        {
+                            txtDisp.Text = "ERR0R";
+                        }
+                        break;
+                    default:
+                        break;
+                }
+            }catch( System.ArgumentOutOfRangeException)
+            {
+                //catch to avoid error for continuous calculation
+            }
+            catch (System.FormatException)
+            {
+                Clipboard.SetText(txtDisp.Text);
+                var formatE = "Incorrect input format. Last value entered must be a number.";
+                var title = "!";
+                MessageBox.Show(formatE, title);
+            }
+
+
+
